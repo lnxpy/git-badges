@@ -23,28 +23,28 @@ Add HTML tags to append badges to your README.md :
 
 Follow these scripts with results and figure github badges out :
 
-[Built Passing] -> blue - green - red - yellow
+**[Built Passing]** -> blue - green - red - yellow <img src="https://github.com/lnxpy/git-badges/blob/master/build-passing-blue.svg" width="80px">
  ```html
 <span>
   <img src="https://github.com/lnxpy/git-badges/blob/master/build-passing-blue.svg" width="80px">
 </span>
 ```
 
-[Dpcs Passing] -> blue - green - red - yellow
+**[Docs Passing]** -> blue - green - red - yellow <img src="https://github.com/lnxpy/git-badges/blob/master/docs-passing-blue.svg" width="80px">
  ```html
 <span>
   <img src="https://github.com/lnxpy/git-badges/blob/master/docs-passing-blue.svg" width="80px">
 </span>
 ```
 
-[License] -> GPL
+**[License]** -> GPL <img src="https://github.com/lnxpy/git-badges/blob/master/license-gpl.svg" width="80px">
  ```html
 <span>
   <img src="https://github.com/lnxpy/git-badges/blob/master/license-gpl.svg" width="80px">
 </span>
 ```
 
-[Support] -> 25% - 50% - 75% - 100%
+**[Support]** -> 25% - 50% - 75% - 100% <img src="https://github.com/lnxpy/git-badges/blob/master/support-25.svg" width="80px">
  ```html
 <span>
   <img src="https://github.com/lnxpy/git-badges/blob/master/support-25.svg" width="80px">
