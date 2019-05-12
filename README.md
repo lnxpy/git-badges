@@ -7,7 +7,18 @@ git-badges are picture marks which you need to show your projects progresses wit
 Add HTML tags to append them to your README.md:
 <br>
 `
-<span><img src="https://bit.ly/2JC8Su7" width="80px"><img src="https://bit.ly/2vV4n5K" width="80px"></span>
+<span>
+<img src="https://github.com/lnxpy/git-badges/blob/master/build-passing-blue.svg" width="80px">
+<img src="https://github.com/lnxpy/git-badges/blob/master/docs-passing-green.svg" width="80px">
+<img src="https://github.com/lnxpy/git-badges/blob/master/license-gpl.svg" width="80px">
+<img src="https://github.com/lnxpy/git-badges/blob/master/support-50.svg" width="80px">
+</span>
 `
 **result**
-<span><img src="https://bit.ly/2JC8Su7" width="80px"><img src="https://bit.ly/2vV4n5K" width="80px"></span>
+<br>
+<span>
+<img src="https://github.com/lnxpy/git-badges/blob/master/build-passing-blue.svg" width="80px">
+<img src="https://github.com/lnxpy/git-badges/blob/master/docs-passing-green.svg" width="80px">
+<img src="https://github.com/lnxpy/git-badges/blob/master/license-gpl.svg" width="80px">
+<img src="https://github.com/lnxpy/git-badges/blob/master/support-50.svg" width="80px">
+</span>
