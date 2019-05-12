@@ -2,6 +2,8 @@
 github badge links for README.md
 
 git-badges are picture marks which you need to show your projects progresses with.
+Use git-badges to indicate lincenses, progress, coverage and support percentage and etc.
+Refork and repair the trends.
 
 # Usage
 
@@ -57,5 +59,6 @@ If you want to make the badges clickable, you just need to put them into a `</a>
  ```html
 <a href="https://www.gnu.org/licenses/gpl-3.0.en.html"><img src="https://github.com/lnxpy/git-badges/blob/master/license-gpl.svg" width="80px"></a>
 ```
-And this is the result of following script :
-<a href=""https://www.gnu.org/licenses/gpl-3.0.en.html><img src="https://github.com/lnxpy/git-badges/blob/master/license-gpl.svg" width="80px"></a>
+
+And this is the result of following script
+<a href="https://www.gnu.org/licenses/gpl-3.0.en.html"><img src="https://github.com/lnxpy/git-badges/blob/master/license-gpl.svg" width="80px"></a>
